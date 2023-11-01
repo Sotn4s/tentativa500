@@ -96,3 +96,8 @@ body {
 #a {
 align-self: center;
 }
+
+a{
+    text-decoration: none;
+    color: #ffff;
+}
